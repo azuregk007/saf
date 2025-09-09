@@ -1,4 +1,4 @@
-# Copyright (c) 1993-2009 Microsoft Corp.
+# Copyright (c) 1993-
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
@@ -19,5 +19,6 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
+
 
 https://10.230.1.100:9440/console/#login
