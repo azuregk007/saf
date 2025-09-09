@@ -1,4 +1,4 @@
-#
+#   TESTING
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
@@ -20,4 +20,5 @@ SAFIQ
 
 
 https://10.230.1.100:9440/console/#login
+
 
